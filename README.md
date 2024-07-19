@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Piyush kaithwas</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*0hcduJ-1b1OU7gPDb-Uz0A.jpeg&tbnid=Ji1W-FX2dGFQQM&vet=10CAoQxiAoAWoXChMImMqB9OiyhwMVAAAAAB0AAAAAEBU..i&imgrefurl=https%3A%2F%2Fmedium.com%2Fgeekculture%2Fthings-i-learned-from-2-years-of-being-a-software-engineer-f4e3f908cde3&docid=on4VQwe1Ctq7UM&w=1400&h=1124&itg=1&q=coding%20animated%20images&ved=0CAoQxiAoAWoXChMImMqB9OiyhwMVAAAAAB0AAAAAEBU")
+(img align="right" alt="Coding" width="400" src="C:\Users\piyus\OneDrive\Pictures")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushkaithwas&label=Profile%20views&color=0e75b6&style=flat" alt="piyushkaithwas" /> </p>
 
